@@ -1,5 +1,5 @@
-hhi
-
-hello 
+import io.*;
+System.out.println();
+System();
 
 
